@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Lemine</h1>
-<h3 align="center">
+<!-- <h3 align="center">
 Quantitative Finance & Computer Science Student | Quant Research / Quant Developer
-</h3>
+</h3> -->
 
 
 <p align="center">
