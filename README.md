@@ -3,25 +3,25 @@
 Quantitative Finance & Computer Science Student | Quant Research / Quant Developer
 </h3>
 
+
 <p align="center">
-🎓 Engineering student in <b>Computer Science & Financial Mathematics</b> at <b>ENSIMG</b><br>
-📊 Focused on <b>systematic strategies, portfolio optimization, and risk modeling</b><br>
+🎓 Graduated from <b>ENSIMAG</b> in <b>Computer Science & Financial Mathematics</b><br>
+📈 Former <b>Quantitative Research Intern</b> at <b>BNP Paribas</b><br>
 💻 Strong interest in <b>Quant Research</b> and <b>Quant Developer</b> roles
 </p>
 
----
 
-### 🔍 Interests
+### Interests
+- Option Pricing 
 - Quantitative Research & Systematic Strategies  
 - Portfolio Optimization & Factor Models  
 - Risk Modeling (Barra-style models)  
 - Stochastic Optimization & Applied Mathematics  
 
-### 🛠️ Technical Skills
-- **Languages**: Python, C++, Rust  
+### Technical Skills
+- **Languages**: Python, C++/C#, Rust  
 - **Quant / Math**: Optimization, Probability, Statistics, Stochastic Processes  
 - **Tools**: NumPy, Pandas, CVXPY, Git, Linux  
 
-### 📫 Contact
-- 📧 Email: <a href="mailto:mhmdahmdnbyl18@gmail.com">mhmdahmdnbyl18@gmail.com</a>
-- 💼 LinkedIn: (add your link here)
+### Contact
+- 📧 Email: <a href="mailto:leminemohamedahmed5@gmail.com">leminemohamedahmed5@gmail.com</a>
