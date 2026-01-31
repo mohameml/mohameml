@@ -1,27 +1,21 @@
-<h1 align="center">Hi 👋, I'm Mohamed Lemine</h1>
-<!-- <h3 align="center">
-Quantitative Finance & Computer Science Student | Quant Research / Quant Developer
-</h3> -->
+# Hi, I'm Mohamed Lemine 👋
+
+>Hi, I'm a Quantitative Engineer working on developing pricing tools for banks and hedge funds.  
+>I’m passionate about building systems **from scratch**, with a focus on option pricing engines, backend systems, simulations, and AI/ML using **Python, C++, C#, and Rust**.
 
 
-<p align="center">
-🎓 Graduated from <b>ENSIMAG</b> in <b>Computer Science & Financial Mathematics</b><br>
-📈 Former <b>Quantitative Research Intern</b> at <b>BNP Paribas</b><br>
-💻 Strong interest in <b>Quant Research</b> and <b>Quant Developer</b> roles
-</p>
+## 🚀 Projects
+
+- 📊 **[pcpd](https://github.com/mohameml)** — Multi-asset option pricing using Black-Scholes & Monte Carlo  
+  > C++ / Monte Carlo / Black-Scholes
+- 🔁 **[pcmf](https://github.com/mohameml)** — Multi-cashflow hedging and pricing project  
+  > C++ / C# / gRPC / Black-Scholes / Monte Carlo
+- 🌍 **[pcmt](https://github.com/mohameml)** — Multi-currency option pricing with Monte Carlo methods  
+  >  C++ / CLI / Black-Scholes / Monte Carlo 
 
 
-### Interests
-- Option Pricing 
-- Quantitative Research & Systematic Strategies  
-- Portfolio Optimization & Factor Models  
-- Risk Modeling (Barra-style models)  
-- Stochastic Optimization & Applied Mathematics  
 
-### Technical Skills
-- **Languages**: Python, C++/C#, Rust  
-- **Quant / Math**: Optimization, Probability, Statistics, Stochastic Processes  
-- **Tools**: NumPy, Pandas, CVXPY, Git, Linux  
+## 📫 Contact
 
-### Contact
-- 📧 Email: <a href="mailto:leminemohamedahmed5@gmail.com">leminemohamedahmed5@gmail.com</a>
+- 📧 Email: leminemohamedahmed5@gmail.com
+- 🔗 LinkedIn: https://linkedin.com/in/mohamed-lemine-mohamed-ahmed-238b0625b
